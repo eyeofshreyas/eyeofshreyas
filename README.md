@@ -17,11 +17,22 @@
 <h2 align="center">🧩 About Me</h2>
 
 <p align="center">
-  <b>Final-year Computer Engineering student</b> passionate about <b>AI, ML, and Automation</b>.<br>
-  <b>Python is my superpower</b> 🐍 | <b>n8n + Prompt Engineering</b> for smart workflows ⚡<br>
-  <b>Certified in Machine Learning & Deep Learning</b> 📜<br>
-  <b>Always learning, always building!</b> 🚀
+  <b>Hi, I'm Shreyas!</b> <br>
+  🚀 Third-year Computer Engineering student with a passion for building the future with <b>AI, Automation, and Python</b>.<br>
+  🤖 I love turning ideas into reality—whether it's training deep learning models, automating workflows, or crafting smart solutions.<br>
+  🧠 Always curious, always learning, always sharing.<br>
+  <br>
+  <b>Quick Facts:</b>
 </p>
+
+<ul align="center">
+  <li>🐍 Python is my daily language and my right hand</li>
+  <li>⚡ Automation enthusiast: n8n, Prompt Engineering, and more</li>
+  <li>🏅 Certified in Machine Learning & Deep Learning</li>
+  <li>🌐 Comfortable with TensorFlow, Docker, React, Notion, and more</li>
+  <li>🎯 On a mission to make tech smarter, faster, and more accessible</li>
+  <li>💬 Always open to collaboration, learning, and new challenges!</li>
+</ul>
 
 ---
 
@@ -87,7 +98,7 @@
 <h2 align="center">✨ Motto</h2>
 
 <blockquote align="center">
-  <b>“Learn fast. Build boldly. Automate smart.”</b> 🚀
+  <b>"Learn fast. Build boldly. Automate smart."</b> 🚀
 </blockquote>
 
 ---
