@@ -1,17 +1,18 @@
 <h1 align="center">Hi, I'm Shreyas 👋</h1>
 <p align="center">
-  🧠 Student | 🤖 AI Enthusiast | 💻 Tech Explorer  
+  🧠 AI & ML Explorer | 🐍 Python Power-User | 💡 Tech Tinkerer  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Computer Engineering student diving deep into **AI/ML & Deep Learning**
-- 🛠️ Building real-world tools with **Python**, **TensorFlow**, **React**, and **n8n**
-- 📜 Certified in **Machine Learning** & **Deep Learning**
-- ⚡ I’m passionate about creating automations, dashboards, and smart tools that solve real problems
-- 🧩 Exploring systems like **Notion**, **Docker**, and workflow automation
+- 🎓 Final-year Computer Engineering student with a deep interest in **AI & Deep Learning**
+- 🐍 Passionate about solving real-world problems using **Python-first** tools and frameworks
+- 📈 Almost reached **1,000 commits** — growing consistently, one line at a time
+- 📜 Certified in **Machine Learning** and **Deep Learning**
+- 🧰 Building smart tools using **TensorFlow**, **n8n**, **Docker**, and **Prompt Engineering**
+- 🌱 Actively learning & sharing new insights on automation and AI
 
 ---
 
@@ -30,17 +31,26 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasshende&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasshende&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyasshende&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasshende&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasshende&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasshende&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🎯 Current Focus
+
+- 🔬 Fine-tuning deep learning projects with **TensorFlow/Keras**
+- 🤖 Automating workflows using **n8n** + **Python**
+- ✍️ Crafting better prompts for smarter AI responses
+- 🎯 Reaching and celebrating **1,000+ commits** milestone very soon!
+
+---
+
+### 🌐 Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/shresh-shende/" target="_blank">
@@ -50,13 +60,7 @@
 
 ---
 
-### ✨ Motto
+### ✨ Personal Quote
 
-> “Build with curiosity. Learn with consistency.”
+> “Learn relentlessly. Build fearlessly.”
 
----
-
-<!-- Optional: Visitors counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreyasshende&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasshende" />
-</p>
