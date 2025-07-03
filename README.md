@@ -14,18 +14,16 @@
 
 ---
 
-<h2 align="center">🧩 About Me</h2>
+<h2>🧩 About Me</h2>
 
-<p align="center">
-  <b>Hi, I'm Shreyas!</b> <br>
-  🚀 Third-year Computer Engineering student with a passion for building the future with <b>AI, Automation, and Python</b>.<br>
-  🤖 I love turning ideas into reality—whether it's training deep learning models, automating workflows, or crafting smart solutions.<br>
-  🧠 Always curious, always learning, always sharing.<br>
-  <br>
-  <b>Quick Facts:</b>
-</p>
+<b>Hi, I'm Shreyas!</b><br>
+🚀 Third-year Computer Engineering student with a passion for building the future with <b>AI, Automation, and Python</b>.<br>
+🤖 I love turning ideas into reality—whether it's training deep learning models, automating workflows, or crafting smart solutions.<br>
+🧠 Always curious, always learning, always sharing.<br>
+<br>
+<b>Quick Facts:</b>
 
-<ul align="center">
+<ul>
   <li>🐍 Python is my daily language and my right hand</li>
   <li>⚡ Automation enthusiast: n8n, Prompt Engineering, and more</li>
   <li>🏅 Certified in Machine Learning & Deep Learning</li>
@@ -88,8 +86,8 @@
   <a href="https://www.linkedin.com/in/shresh-shende/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shreyas-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shreyasshende.999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-shreyasshende.999@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shreyasshende07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-shreyasshende07@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
