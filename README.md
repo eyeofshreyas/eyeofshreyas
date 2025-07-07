@@ -17,7 +17,7 @@
 <h2>🧩 About Me</h2>
 
 <b>Hi, I'm Shreyas!</b><br>
-🚀 Final-year Computer Engineering student with a passion for building the future with <b>AI, Automation, and Python</b>.<br>
+🚀 Third-year Computer Engineering student with a passion for building the future with <b>AI, Automation, and Python</b>.<br>
 🤖 I love turning ideas into reality—whether it's training deep learning models, automating workflows, or crafting smart solutions.<br>
 🧠 Always curious, always learning, always sharing.<br>
 <br>
