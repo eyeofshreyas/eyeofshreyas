@@ -86,7 +86,7 @@
   <a href="https://www.linkedin.com/in/shresh-shende/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shreyas-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:shreyasshende07@gmail.com" target="_blank">
+  <a href="mailto:shreyasshende.999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-shreyasshende07@gmail.com-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
