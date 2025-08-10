@@ -1,7 +1,7 @@
 <!-- World-Class GitHub Profile README for @shreyass0007 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Shreyas+%F0%9F%91%8B;AI+%26+Automation+Developer;Building+the+Future+with+Python+%7C+ML+%7C+n8n+%7C+React" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Shresh+%F0%9F%91%8B;AI+%26+Automation+Developer;Building+the+Future+with+Python+%7C+ML+%7C+n8n+%7C+React" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <h2>🧩 About Me</h2>
 
-<b>Hi, I'm Shreyas!</b><br>
+<b>Hi, I'm Shresh!</b><br>
 🚀 Third-year Computer Engineering student with a passion for building the future with <b>AI, Automation, and Python</b>.<br>
 🤖 I love turning ideas into reality—whether it's training deep learning models, automating workflows, or crafting smart solutions.<br>
 🧠 Always curious, always learning, always sharing.<br>
