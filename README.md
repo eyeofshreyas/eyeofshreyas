@@ -61,7 +61,7 @@
 </p>
 
 <ul>
-  <li>🚀 <b>1,000+ commits</b> milestone</li>
+
   <li>🤖 Built 10+ AI/ML projects</li>
   <li>⚡ Automated workflows for real-world impact</li>
   <li>🏅 Machine Learning & Deep Learning certified</li>
