@@ -96,9 +96,9 @@ I specialize in building **Agentic AI systems**, finetuning **LLMs**, and design
 
 | Project | Tech | Status |
 |---------|------|--------|
-| Multi-Agent AI System | LangChain, Claude API, Python | 🔄 In Progress |
+| Multi-Agent AI System | LangChain, Claude API, Python | ✅ Done|
 | LLM Finetuning Pipeline | HuggingFace, LoRA, QLoRA | ✅ Done |
-| RAG Knowledge System | LangChain, Chroma, Embeddings | 🔄 In Progress |
+| RAG Knowledge System | LangChain, Chroma, Embeddings |✅ Done |
 | Intelligent n8n Automations | n8n, Python, Webhooks | ✅ Done |
 | Deep Learning Models | TensorFlow / Keras | ✅ Done |
 
