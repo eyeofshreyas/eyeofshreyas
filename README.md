@@ -115,6 +115,4 @@ I specialize in shipping **Agentic AI systems**, finetuning **LLMs**, and design
   <b>"Learn fast. Build boldly. Automate smart."</b> 🚀
 </blockquote>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyeofshreyas&label=Profile+Views&color=1E90FF&style=flat-square" alt="profile views" />
-</p>
+
