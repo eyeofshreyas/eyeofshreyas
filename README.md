@@ -2,14 +2,13 @@
 <!-- Tip: file lives at github.com/eyeofshreyas/eyeofshreyas -> README.md -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shresh+%F0%9F%91%8B;AI+Engineer+%26+Automation+Architect;LLM+Finetuning+%7C+Agentic+AI+%7C+RAG;Model+Context+Protocol+%7C+MCP+Servers;Python+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Shresh+%F0%9F%91%8B;AI+Engineer+%26+Automation+Architect;LLM+Finetuning+%7C+Agentic+AI+%7C+RAG;Python+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Building+Intelligent+Systems+That+Ship" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Agentic_AI-1E90FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_%7C_Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_Finetuning-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Architecture-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -22,11 +21,10 @@
 ## 🧩 About Me
 
 **Hi, I'm Shresh!**
-A Computer Engineering student (Data Science specialization) building at the intersection of **AI Engineering, Large Language Models, and Agentic Automation**.
-I specialize in shipping **Agentic AI systems**, wiring up **MCP-connected tool ecosystems**, finetuning **LLMs**, and designing intelligent automation pipelines that work in the real world — not just in notebooks. I've already shipped **TranscribeFlow**, a self-hosted Whisper-based speech-to-text SaaS with real paying users.
+A Computer Engineering student building at the intersection of **AI Engineering, Large Language Models, and Automation**.
+I specialize in shipping **Agentic AI systems**, finetuning **LLMs**, and designing intelligent automation pipelines that work in the real world — not just in notebooks.
 
 - 🤖 **Agentic AI** — autonomous, multi-step agents with tool use, memory & planning
-- 🔌 **Model Context Protocol (MCP)** — building & consuming MCP servers to connect LLMs to filesystems, Notion, and other real-world tools
 - 🧬 **LLM Finetuning** — LoRA, QLoRA, PEFT on domain-specific data
 - 🔍 **RAG Systems** — retrieval-augmented generation for knowledge-grounded AI
 - ⚡ **Automation** — n8n + Python pipelines that remove real manual work
@@ -56,20 +54,12 @@ I specialize in shipping **Agentic AI systems**, wiring up **MCP-connected tool 
   <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="48"/>
 </p>
 
-**Agentic & Protocol Layer**
-
-<p>
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Filesystem_MCP-4A5568?style=flat-square&logo=linux&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Notion_MCP-000000?style=flat-square&logo=notion&logoColor=white" height="48"/>
-</p>
-
 **Frameworks**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,fastapi" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
 </p>
 
 **Tools & Infrastructure**
@@ -78,7 +68,7 @@ I specialize in shipping **Agentic AI systems**, wiring up **MCP-connected tool 
   <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,vscode" />
   &nbsp;
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="48"/>
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" height="48"/>
 </p>
 
 ---
@@ -99,12 +89,11 @@ I specialize in shipping **Agentic AI systems**, wiring up **MCP-connected tool 
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| 🎙️ **TranscribeFlow** | Self-hosted Whisper-based speech-to-text SaaS — live, with paying users | Whisper · Python · FastAPI |
-| 🤖 **Multi-Agent AI System** | Autonomous agents with planning, memory & tool use over MCP servers | LangChain · Claude API · MCP · Python |
+| 🤖 **Multi-Agent AI System** | Autonomous agents with planning, memory & tool use | LangChain · Claude API · Python |
 | 🧬 **LLM Finetuning Pipeline** | Domain-specific finetuning with parameter-efficient methods | HuggingFace · LoRA · QLoRA |
 | 🔍 **RAG Knowledge System** | Knowledge-grounded answers over private data | LangChain · Chroma · Embeddings |
 | ⚡ **Intelligent n8n Automations** | Real-world workflow automation with webhooks | n8n · Python · Webhooks |
-| 🧠 **Deep Learning Models** | Training & deployment of DL architectures, incl. GPT-2 from scratch | PyTorch · TensorFlow |
+| 🧠 **Deep Learning Models** | Training & deployment of DL architectures | PyTorch · TensorFlow |
 
 ---
 
@@ -125,3 +114,7 @@ I specialize in shipping **Agentic AI systems**, wiring up **MCP-connected tool 
 <blockquote align="center">
   <b>"Learn fast. Build boldly. Automate smart."</b> 🚀
 </blockquote>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eyeofshreyas&label=Profile+Views&color=1E90FF&style=flat-square" alt="profile views" />
+</p>
